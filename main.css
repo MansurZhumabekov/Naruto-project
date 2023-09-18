@@ -47,7 +47,7 @@ body {
   color: var(--text-color);
 }
 
-@media (min-width: 560px) {
+@media (min-width: 570px) {
   .header {
     padding: 28px 0;
   }
